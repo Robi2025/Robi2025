@@ -1,5 +1,7 @@
-<!-- 🌌 Banner principal -->
-![Banner](https://githubuniverse.github.io/assets/Robi2025-banner.png)
+<!-- 🌌 Banner Tron Ares 2025 -->
+<p align="center">
+  <img src="https://files.oaiusercontent.com/file_00000000e8f8620ea1753c1245d26346/A_digital_graphic_design_image_features_a_personal.png" width="100%" alt="ROBI2025 Banner"/>
+</p>
 
 <h1 align="center">👨‍💻 Robi2025</h1>
 <h3 align="center">Desarrollador Full Stack | IA & Cloud Enthusiast | Builder @GitHub Universe 2025</h3>
@@ -50,44 +52,5 @@ Me motiva contribuir a proyectos innovadores, aprender nuevas herramientas y com
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Robi2025&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧩 Proyectos destacados
-| 🚀 Proyecto | 💡 Descripción | 🛠️ Tecnologías |
-|--------------|----------------|----------------|
-| **OctoCanvas Clone** | Generador de banners y tarjetas automáticas con datos de GitHub | Astro, Tailwind, API REST |
-| **AI Workflow Assistant** | Asistente con IA para automatizar tareas de desarrollo | Python, OpenAI, FastAPI |
-| **Dynamic Dashboard** | Panel en tiempo real para análisis de proyectos | React, Node.js, MongoDB |
-
----
-
-### 🧭 Metas 2025
-- [x] Lanzar mi primer proyecto Open Source  
-- [ ] Crear una plantilla profesional para dashboards con IA  
-- [ ] Publicar un artículo técnico en Dev.to  
-- [ ] Contribuir en un repositorio destacado de GitHub  
-
----
-
-### 🧠 Filosofía
-> “El código perfecto no se mide por su complejidad, sino por su claridad.”  
-> — *Robi2025*
-
----
-
-### 📬 Conecta conmigo
-<p align="center">
-  <a href="https://github.com/Robi2025" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:tuemail@dominio.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/Robi2025" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-</p>
-
----
-
-### 🧬 Licencia
-Este perfil y sus recursos están bajo licencia [MIT](https://opensource.org/licenses/MIT).  
-© 2025 — *Robi2025*
+  <img src="https://streak-stats.demolab.com?user=Robi2025&th
 
